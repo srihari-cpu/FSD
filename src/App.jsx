@@ -1,4 +1,4 @@
-import "./App.css";
+
 import Eg from "./Eg";
 import Uncontrolled from "./Uncontrolled";
 import Voting from "./Voting";
